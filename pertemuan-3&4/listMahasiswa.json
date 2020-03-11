@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "nim": "1741720037",
+      "nama": "Dini Triana Dewi",
+      "alamat": "Jl. Kembang Turi",
+      "hp": "0895366941094",
+      "angkatan": "2017",
+      "status": "aktif",
+      "id": "1741720037"
+    },
+    {
+      "nim": "1741720066",
+      "nama": "Sinta Ayu Sabilla",
+      "alamat": "Jl. Raden Patah",
+      "hp": "081213456310",
+      "angkatan": "2014",
+      "status": "lulus",
+      "id": "1741720066"
+    },
+    {
+      "nim": "1741720050",
+      "nama": "Denis Herlambang",
+      "alamat": "jl. Mawar",
+      "hp": "0892699381083",
+      "angkatan": "2018",
+      "status": "cuti",
+      "id": "1741720050"
+    },
+    {
+      "nim": "1741720069",
+      "nama": "Santi",
+      "alamat": "Jl. Karang Kates",
+      "hp": "089237237723",
+      "angkatan": "2019",
+      "status": "aktif",
+      "id": "1741720069"
+    }
+  ]
+}

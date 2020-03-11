@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1583403219043,
+      "title": "DINI",
+      "body": "POLINEMA"
+    },
+    {
+      "userId": 1,
+      "id": 1583403226960,
+      "title": "DINI TRIANA",
+      "body": "POLINEMA"
+    },
+    {
+      "userId": 1,
+      "id": 1583403232076,
+      "title": "DINI TRIANA DEWI",
+      "body": "POLINEMA"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
